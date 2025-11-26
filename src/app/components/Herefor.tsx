@@ -34,6 +34,7 @@ export default function Herefor() {
             width={245}
             height={475}
             alt="simbi icon"
+            className="-mt-12"
           />
           <div className="max-w-[453px] p-2 space-y-4">
             <h2 className="text-5xl text-dark-950 font-medium">
