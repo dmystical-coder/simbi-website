@@ -4,6 +4,7 @@ import Image from "next/image";
 import Header from "./components/Header";
 import Section from "./components/Section";
 import Herefor from "./components/Herefor";
+import Why from "./components/Why";
 
 export default function Home() {
   return (
@@ -14,6 +15,9 @@ export default function Home() {
       <main>
         <Section>
           <Herefor />
+        </Section>
+        <Section>
+          <Why />
         </Section>
       </main>
     </div>

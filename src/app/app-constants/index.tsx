@@ -23,6 +23,36 @@ export const Offers = [
       "Earn rewards through a web 3 Telegram bot. Yes you can study to earn",
   },
 ];
+export const Whys = [
+  {
+    img: "/simbi-yello.svg",
+    title: "Everywhere you want",
+    color: "text-[#F99D07]",
+    subtitle:
+      "On your laptop. On your phone. In your Telegram. SIMBI’s got your back.",
+  },
+  {
+    img: "/simbi-pink.svg",
+    title: "Web3 Rewards",
+    color: "text-[#FF5A5F]",
+    subtitle:
+      "Earn tokens, unlock NFTs, and join study groups where crypto meets accountability.",
+  },
+  {
+    img: "/simbi-green.svg",
+    title: "A Buddy With Real Personality",
+    color: "text-[#16A349]",
+    subtitle:
+      "SIMBI cheers when you win, roasts when you slack, and makes studying fun.",
+  },
+  {
+    img: "/simbi-purple.svg",
+    title: "AI That Understands You",
+    color: "text-[#7A5FFF]",
+    subtitle:
+      " Personalized plans, custom quizzes, and support that adapts to how you learn.",
+  },
+];
 
 export const footerIcons = [
   {
