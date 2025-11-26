@@ -5,13 +5,13 @@ import { RoadMaps } from "../app-constants";
 export default function RoadMap() {
   return (
     <section className="bg-[#E4DFFF]">
-      <div className="flex flex-col place-items-center py-[30px] md:py-[50px] lg:py-[107px] px-[154px] lg:px-[174px]">
+      <div className="flex flex-col place-items-center py-[30px] md:py-[50px] lg:py-[107px] lg:px-[174px]">
         <Image
           src="/simbi-black.svg"
           width={216}
           height={199}
           alt="simbi quote"
-          className=""
+          className="w-[69px] h-[63px] md:w-40 md:h-[140px] lg:w-[216px] lg:h-[199px]"
         />
         <button
           type="button"
